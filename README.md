@@ -35,8 +35,8 @@ This dataset contains the total estimated income for all Pittsburgh neighborhood
 
 Link: https://data.wprdc.org/dataset/non-traffic-citations
 
-This dataset contains information about non-traffic citations, which are low-level criminal offenses where a law enforcement officer issues a citation<br>
-instead of an arrest. As its names suggests, any citation regarding traffic is excluded from this data set.
+This dataset contains information about non-traffic citations, which are low-level criminal offenses where a law enforcement officer<br>
+issues a citation instead of an arrest. As its names suggests, any citation regarding traffic is excluded from this data set.
 
 We decided as a group that less citations means that it is easier to commit crimes in such neighborhood, since it means that actions<br>
 that may be construed as a crime could be caught less often.
