@@ -1,14 +1,17 @@
 # Big-Ideas-Final-Project
-
 ## Team Name: Every Villain Is Lemons
 
 ![EVIL](https://external-preview.redd.it/2Ak3d6XGDuQYCuWI7El8esni0FwedYaAHJYs-oqR0po.png?auto=webp&s=d38585bf7a2d1c1a679251308b7e3c1c5e771f6e)
+
+----
 
 ## Team Members:
 
 ### Zach Schultz: zjs32@pitt.edu
 ### Rafael Hollero: 
 ### Renhan Xu: rcx2@pitt.edu
+
+----
 
 ## Databases Used:
 
