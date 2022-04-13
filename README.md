@@ -7,8 +7,8 @@
 ## Team Members:
 
 ### Zach Schultz: zjs32@pitt.edu
-### Rafael Hollero: rcx2@pitt.edu
-### Renhan Xu:
+### Rafael Hollero: 
+### Renhan Xu: rcx2@pitt.edu
 
 ## Databases Used:
 
