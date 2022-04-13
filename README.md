@@ -29,7 +29,6 @@ This dataset contains the total estimated income for all Pittsburgh neighborhood
 ### Non-Traffic Citations (Renhan's Data):
 
 
-be construed as a crime may not get caught as often.<br>
 ----
 >>>>>>> c9cd70e42e8245c457c8b262fd1769b736185626
 
