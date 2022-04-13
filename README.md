@@ -1,13 +1,13 @@
 # Big-Ideas-Final-Project
 
-## Team Name: Every Villain Is Lemons (temp? Do we have another team name?)
+## Team Name: Every Villain Is Lemons
 
 ![EVIL](https://external-preview.redd.it/2Ak3d6XGDuQYCuWI7El8esni0FwedYaAHJYs-oqR0po.png?auto=webp&s=d38585bf7a2d1c1a679251308b7e3c1c5e771f6e)
 
 ## Team Members:
 
 ### Zach Schultz: zjs32@pitt.edu
-### Rafael Hollero: 
+### Rafael Hollero: rcx2@pitt.edu
 ### Renhan Xu:
 
 ## Databases Used:
@@ -28,4 +28,4 @@ This dataset contains UCR (Uniform Crime Reporting) validated crime incidents si
 
 ## Overview:
 
-This repository is designed to determine the best Pittsburgh neighborhood to commit crime, using Police Crime, Neighborhood Wealth, and Police Ticket(?) Data.
+This repository is designed to determine the best Pittsburgh neighborhood to commit crime, using Police Crime, Neighborhood Wealth, and Non-Traffic Citations Data.
