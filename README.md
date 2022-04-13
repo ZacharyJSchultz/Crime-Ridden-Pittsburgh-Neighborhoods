@@ -25,8 +25,6 @@ https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscell
 <<<<<<< HEAD
 This dataset contains the total estimated income for all Pittsburgh neighborhoods. This data incorporates factors such as wages, salary, Armed Forces pay, commissions, tips, piece-rate payments, and cash bonuses earned before deductions were made for taxes, bonds, pensions, union dues, etc.
 
-### Renhan's Data:
-=======
 ----
 ### Non-Traffic Citations (Renhan's Data):
 
