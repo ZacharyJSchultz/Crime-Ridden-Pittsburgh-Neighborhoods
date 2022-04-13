@@ -22,7 +22,8 @@ This dataset contains UCR (Uniform Crime Reporting) validated crime incidents si
 
 
 ----
-### Non-Traffic Citations (Renhan's Data):<br>
+### Non-Traffic Citations (Renhan's Data):
+
 Link: https://data.wprdc.org/dataset/non-traffic-citations<br>
 This dataset contains information about non-traffic citations, which are low-level criminal offenses where a law enforcement officer issues a citation<br>
 instead of an arrest. As its names suggests, any citation regarding traffic is excluded from this data set.<br>
