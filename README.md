@@ -8,7 +8,7 @@
 ## Team Members:
 
 ### Zach Schultz: zjs32@pitt.edu
-### Rafael Hollero: 
+### Rafael Hollero: rch54@pitt.edu
 ### Renhan Xu: rcx2@pitt.edu
 
 ----
